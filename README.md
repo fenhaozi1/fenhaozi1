@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**fenhaozi1/fenhaozi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是**福州大学计算机科学与技术专业**的大三学生，从 C 语言开始接触编程，
+正在一边打牢专业基础，一边探索自己真正感兴趣的技术方向。
 
-Here are some ideas to get you started:
+## 🙋 关于我
+- **兴趣爱好**：看喜剧电影
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 技能与自我评估
+- **已掌握**：C 语言（语法、指针、内存管理、基础数据结构）；计算机专业核心课程基础；数电模电
+- **感兴趣的方向**：前端开发
+- **最想学习**：操作系统原理、计算机网络、算法与数据结构进阶、Linux 开发
+
+## 🎯 未来三年规划
+- **大三**：夯实专业基础（数据结构、算法、操作系统、计算机网络），明确就业方向，
+  跟着课程和项目持续积累代码量
+- **大四**：集中备考考公，完成毕业设计，补齐目标方向的实战项目
+- **毕业后三年**：入职相关岗位，在感兴趣的方向上成长为能独当一面的工程师
